@@ -43,7 +43,7 @@ $ cd desafio01_trilha_reactjs
 # Instale as dependências
 $ yarn
 # Execute a aplicação
-$ yarn start
+$ yarn dev
 ```
 
 ## 📎 Features
