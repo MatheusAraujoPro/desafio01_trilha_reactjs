@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio 01 da trilha de Reactjs RocketSeat .
+  Desafio 01 da trilha de Reactjs RocketSeat.
 </h3>
 
 <blockquote align="center">Não há nenhum segredo para o sucesso. Ele é o resultado da preparação, do trabalho duro e do aprendizado com o fracasso!</blockquote>
@@ -19,12 +19,11 @@ Funcionalidades esperadas:
 - Crie uma tarefa
 - Possibilite o usuário marcar essa tarefa como feita;
 - Possibilite o usuário excluir essa tarefa;
-  informações (bandeira, nome, capital, área, população e top-level domain);
 
 ## ✅ Demonstração
 
-<img src="" alt="Imagem 01 do projeto"/> 
-<img src="" alt="Imagem 02 do projeto"/>
+<img src="https://github.com/MatheusAraujoPro/assets/blob/master/desafio01_trilha_reactjs_img_01.png" alt="Imagem 01 do projeto"/> 
+<img src="https://github.com/MatheusAraujoPro/assets/blob/master/desafio01_trilha_reactjs_img_02.png" alt="Imagem 02 do projeto"/>
 
 ## ⚙ Pré-requisitos
 
